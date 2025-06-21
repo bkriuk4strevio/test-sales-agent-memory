@@ -44,6 +44,7 @@ class StrategyManager:
                 ],
                 "consultation_triggers": [
                     "I will put you in touch with one of our experts. Please, choose your preferred time in the calendar CALENDLY_LINK or via email EMAIL to discuss the details."
+                ],
             },
             "timing_strategy": {
                 "link_timing": 4,
