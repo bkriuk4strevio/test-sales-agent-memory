@@ -39,14 +39,11 @@ class StrategyManager:
                 },
                 "proven_questions": [
                     "What's your main priority for the setup?",
-                    "What's your timeline looking like?",
                     "What industry are you in?",
                     "What's driving your decision to expand there?"
                 ],
                 "consultation_triggers": [
-                    "I will put you in touch with one of our experts. Please, choose your preferred time in the calendar CALENDLY_LINK or via email EMAIL to discuss the details.",
-                    "I will put you in touch with one of our consultants. Please, choose your preferred time in the calendar CALENDLY_LINK or via email EMAIL to discuss the details."
-                ]
+                    "I will put you in touch with one of our experts. Please, choose your preferred time in the calendar CALENDLY_LINK or via email EMAIL to discuss the details."
             },
             "timing_strategy": {
                 "link_timing": 4,
