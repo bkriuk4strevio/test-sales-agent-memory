@@ -315,7 +315,7 @@ Remember the guidelines and respond as a professional consultant using learned s
                 successful_phrase = self.get_successful_phrase()
                 if successful_phrase and not ai_response.startswith(successful_phrase.split()[0]):
                     if len(successful_phrase.split()) < 6:  # Short phrases only
-                        ai_response = f"{successful_phrase} {ai_response}"
+                        ai_response = f"{ai_response}"
             
             # Add to conversation history
             self.add_to_history("user", user_message)
